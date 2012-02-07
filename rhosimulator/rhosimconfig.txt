@@ -1,0 +1,8 @@
+rhodes_path='/Users/lars/.rvm/gems/ruby-1.8.7-p357/gems/rhodes-3.3.2.beta.4'
+app_version='1.0'
+app_name='metademo1'
+reload_app_changes=1
+debug_port=
+debug_host='127.0.0.1'
+platform='iphone'
+ext_path=/Users/lars/.rvm/gems/ruby-1.8.7-p357/gems/rhodes-3.3.2.beta.4/lib/extensions/json;/Users/lars/.rvm/gems/ruby-1.8.7-p357/gems/rhodes-translator-0.0.4/lib;/Users/lars/.rvm/gems/ruby-1.8.7-p357/gems/rhodes-3.3.2.beta.4/lib/extensions/mspec;/Users/lars/.rvm/gems/ruby-1.8.7-p357/gems/rhodes-3.3.2.beta.4/lib/extensions/fileutils;
